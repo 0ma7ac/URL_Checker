@@ -29,7 +29,7 @@ Usage
 
 Example
 -------
-    $ python main.py
+    $ cat input.txt | python main.py
     http://example.com
     http://nonexistent.com
     http://example.org
